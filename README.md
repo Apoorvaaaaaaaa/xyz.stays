@@ -46,4 +46,17 @@
 
 <details>
 <summary>📂 Project Structure</summary>
+blossom-stays/
+├── assets/
+│ ├── images/
+│ │ ├── hero-banner.jpg
+│ │ ├── stay1.jpg
+│ │ ├── stay2.jpg
+│ │ └── ...
+├── css/
+│ └── style.css
+├── js/
+│ └── main.js
+├── index.html
+└── README.md
 
