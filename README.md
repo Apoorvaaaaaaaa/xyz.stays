@@ -1,6 +1,5 @@
 # 🌸 Blossom Stays – Airbnb-Inspired Stay Booking Website
 
-![Blossom Stays Banner](assets/images/logo.svg)
 <img src="assets/images/logo.svg" alt="Blossom Stays Banner" width="100"/>
 
 
