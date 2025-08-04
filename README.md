@@ -1,6 +1,6 @@
 # 🌸 Blossom Stays – Airbnb-Inspired Stay Booking Website
 
-![Blossom Stays Banner](assets/images/hero-banner.jpg)
+![Blossom Stays Banner](assets/images/logo.svg)
 
 > A modern, responsive, and aesthetic Airbnb clone made with **HTML, CSS, and JavaScript**, designed for cozy, aesthetic, and dreamy getaway bookings.  
 > Built from scratch with clean UI, hover animations, and fully responsive layouts for mobile and desktop.
@@ -21,8 +21,7 @@
 
 ## 🖼 Preview
 
-### Home Page
-![Home Page Preview](assets/images/stay1.jpg)
+
 
 ---
 
