@@ -44,4 +44,6 @@
 
 ---
 
-## 📂 Project Structure
+<details>
+<summary>📂 Project Structure</summary>
+
